@@ -6,7 +6,7 @@ Most of my repositories can be found under the [Nimbly](https://github.com/nimbl
 
 ## Some of my libraries
 * [Proof](https://github.com/nimbly/Proof) - A secure library capable of generating, signing, validating, and decoding JWTs.
-* [Plaid SDK](https://github.com/TomorrowIdeas/plaid-sdk-php) - PHP SDK for Plaid
+* [Plaid SDK](https://github.com/TomorrowIdeas/plaid-sdk-php) - PHP SDK for Plaid - banking integration APIs.
 * [Resolve](https://github.com/nimbly/Resolve) - A library that can add dependency resolution and injection to your code.
 * [Limber](https://github.com/nimbly/Limber) - A lightweight and fast HTTP micro-framework that supports PSR-7, 15, and 11.
 * [Capsule](https://github.com/nimbly/Capsule) - A PSR-7 HTTP Message implementation.
@@ -14,9 +14,9 @@ Most of my repositories can be found under the [Nimbly](https://github.com/nimbl
 
 ## Current projects
 
-Lately I am focusing on an event-driven framework, making pubishing and consuming messages easy, intuitive, and painless to setup. It's called [Syndicate](https://github.com/nimbly/Syndicate).
+Lately I am focusing on an event-driven framework, making publishing and consuming messages easy, intuitive, and painless to setup. It's called [Syndicate](https://github.com/nimbly/Syndicate).
 
-## My toolchain
+## My dev toolchain
 * Dell XPS-13
 * Linux (Pop-OS)
 * VS Code
